@@ -1,0 +1,53 @@
+🎉 Welcome to the Fun Python Calculator! 🎉
+
+--- 🧮 Fun Python Calculator 🧮 ---
+1. Addition (+)
+2. Subtraction (-)
+3. Multiplication (x)
+4. Division (÷)
+5. Exponentiation (^)
+6. Exit
+
+Choose an operation (1-6): 1
+
+Enter the first number: 12
+Enter the second number: 8
+
+Crunching the numbers... 🧪
+... (thinking) ...
+
+The result of 12 + 8 is 20. That's math magic!
+
+Want to do another calculation? Let's gooo! 🚀
+
+--- 🧮 Fun Python Calculator 🧮 ---
+1. Addition (+)
+2. Subtraction (-)
+3. Multiplication (x)
+4. Division (÷)
+5. Exponentiation (^)
+6. Exit
+
+Choose an operation (1-6): 4
+
+Enter the first number: 20
+Enter the second number: 4
+
+Crunching the numbers... 🧪
+... (thinking) ...
+
+20 ÷ 4 = 5.00. Divide and conquer!
+
+Want to do another calculation? Let's gooo! 🚀
+
+--- 🧮 Fun Python Calculator 🧮 ---
+1. Addition (+)
+2. Subtraction (-)
+3. Multiplication (x)
+4. Division (÷)
+5. Exponentiation (^)
+6. Exit
+
+Choose an operation (1-6): 6
+
+Thanks for using the Fun Python Calculator! See you next time! 🚀
