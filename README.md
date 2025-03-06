@@ -1,5 +1,6 @@
 # funpythoncalculator
 Welcome to the Fun Python Calculator
+*Run in VS Code
 
 This calculator can perform:
 Addition (+)
