@@ -1,4 +1,5 @@
-🎉 Welcome to the Fun Python Calculator! 🎉
+Welcome to the Fun Python Calculator.
+*used in vs code
 
 --- 🧮 Fun Python Calculator 🧮 ---
 1. Addition (+)
